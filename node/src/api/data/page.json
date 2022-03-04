@@ -1,0 +1,55 @@
+[{
+    "page_name": "home",
+    "section1": {
+        "heading": "Helping Non-Profits <br /> Find Right Resources"
+    },
+    "section2": {
+        "heading": "Lorem Ipsum Consectetur",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis molestie non magna ac porta. Aenean commodo <br/> dictum nunc, et sollicitudin neque malesuada eget. In posuere turpis dapibus justo cursus tincidunt."
+    },
+    "section3": {
+        "heading": "Lorem Ipsum Consectetur",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis molestie non magna ac porta. Aenean commodo <br/> dictum nunc, et sollicitudin neque malesuada eget. In posuere turpis dapibus justo cursus tincidunt.",
+        "bg_image": "top-services-left-img.jpg",
+        "cards": [{
+            "heading": "Donation",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "bg_image": "top-services-img1.svg"
+        }, {
+            "heading": "Intellectual",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "bg_image": "top-services-img2.svg"
+        }, {
+            "heading": "Finance",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "bg_image": "top-services-img3.svg"
+        }]
+    },
+    "section4": {
+        "heading": "Lorem Ipsum Consectetur.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis molestie non magna ac porta. Aenean commodo <br/> dictum nunc, et sollicitudin neque malesuada eget. In posuere turpis dapibus justo cursus tincidunt.",
+        "cards": [{
+            "heading": "Lorem Dolor Sectetur.",
+            "text": "Lorem ipsum dolor consectetur adipiscing elit. Duis molestie non magna ac porta.",
+            "bg_image": "extra-img1.jpg"
+        }, {
+            "heading": "Lorem Dolor Sectetur.",
+            "text": "Lorem ipsum dolor consectetur adipiscing elit. Duis molestie non magna ac porta.",
+            "bg_image": "extra-img2.jpg"
+        }, {
+            "heading": "Lorem Dolor Sectetur.",
+            "text": "Lorem ipsum dolor consectetur adipiscing elit. Duis molestie non magna ac porta.",
+            "bg_image": "extra-img3.jpg"
+        }]
+    },
+    "section5": {
+        "heading": "Connect Me",
+        "phone": "123-456-7890",
+        "address": "8547 West Summit Street, Orange Park, USA",
+        "email": "info@spreadbliss.com",
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://www.twitter.com/",
+        "instagram": "https://www.instagram.com/",
+        "linkedin": "https://www.linkedin.com/"
+    }
+}]

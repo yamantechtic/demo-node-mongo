@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "contact",
+        "body": "<p>contact page</p>",
+        "type": "contact"
+    },
+    {
+        "subject": "about",
+        "body": "<p>about us page</p>",
+        "type": "about"
+    }
+]
